@@ -89,3 +89,21 @@ This project is a full-stack e-commerce cart application built with React (front
 - Modify quantities or remove items from cart
 - Proceed to checkout and get receipt
 - Cart state syncs with backend and persists across sessions
+
+---
+
+### Example images
+
+1. Product Page
+
+![Product Page](</images/\image(1).jpeg> "Product Page")
+
+2. Cart Page
+
+![Cart Page](</images/\image(4).jpeg> "Cart Page")
+
+3. Receipt
+
+![Receipt](</images/\image(2).jpeg> "Receipt")
+
+[Watch sample video](https://www.loom.com/share/47db67038e4b40f6a9754dbfefee452f)
